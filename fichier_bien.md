@@ -1,6 +1,7 @@
-Ce fichier décrit ce que j'apprécie dans Git
+Ce fichier dÃ©crit ce que j'apprÃ©cie dans Git
 
-Possibilité de partage
-Sauvegarde extérieure
+PossibilitÃ© de partage
+Sauvegarde extÃ©rieure
 Versionning
 GitHub
+L'aide en ligne de GitHub
